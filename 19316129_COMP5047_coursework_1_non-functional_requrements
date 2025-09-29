@@ -1,0 +1,13 @@
+Functional requirement chosen: FR-ST-5
+Non-functional requirements are as follows:
+-The character limit on the input fields must be high enough to allow for a detailed description of the new society and its target students.
+-Submitted information about organisation team members must be stored securely on the cloud.
+-Rejected requests must have organisation team data securely deleted following rejection.
+-A student who submits a request which is rejected must not be able to submit a new request until the following month.
+-contact details must be stored securely on the cloud.
+-contact details must be deleted following rejected requests.
+-it must be verified that all students whose information is given are members of the same university-specific student union.
+-multiple students must be able to submit requests simultaneously.
+-students must not be able to start a society which already exists.
+-once the society has been approved, the organisation team must all be rapidly delivered a means to download and sign in to the Society Leader application.
+-Students who have their requests approved must be automatically granted member/subscriber status of their new society.
